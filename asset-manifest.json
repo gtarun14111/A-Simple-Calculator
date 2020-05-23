@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gtarun14111/A-Simple-Calculator/static/css/main.8fb1257d.chunk.css",
+    "main.js": "/gtarun14111/A-Simple-Calculator/static/js/main.28231a29.chunk.js",
+    "main.js.map": "/gtarun14111/A-Simple-Calculator/static/js/main.28231a29.chunk.js.map",
+    "runtime-main.js": "/gtarun14111/A-Simple-Calculator/static/js/runtime-main.0f4267b8.js",
+    "runtime-main.js.map": "/gtarun14111/A-Simple-Calculator/static/js/runtime-main.0f4267b8.js.map",
+    "static/js/2.8e48544d.chunk.js": "/gtarun14111/A-Simple-Calculator/static/js/2.8e48544d.chunk.js",
+    "static/js/2.8e48544d.chunk.js.map": "/gtarun14111/A-Simple-Calculator/static/js/2.8e48544d.chunk.js.map",
+    "index.html": "/gtarun14111/A-Simple-Calculator/index.html",
+    "precache-manifest.604631cd1f71c518eebddfc81a072781.js": "/gtarun14111/A-Simple-Calculator/precache-manifest.604631cd1f71c518eebddfc81a072781.js",
+    "service-worker.js": "/gtarun14111/A-Simple-Calculator/service-worker.js",
+    "static/css/main.8fb1257d.chunk.css.map": "/gtarun14111/A-Simple-Calculator/static/css/main.8fb1257d.chunk.css.map",
+    "static/js/2.8e48544d.chunk.js.LICENSE.txt": "/gtarun14111/A-Simple-Calculator/static/js/2.8e48544d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f4267b8.js",
+    "static/js/2.8e48544d.chunk.js",
+    "static/css/main.8fb1257d.chunk.css",
+    "static/js/main.28231a29.chunk.js"
+  ]
+}
