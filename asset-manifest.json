@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/gtarun14111/A-Simple-Calculator/static/css/main.8fb1257d.chunk.css",
-    "main.js": "/gtarun14111/A-Simple-Calculator/static/js/main.d424d5c7.chunk.js",
-    "main.js.map": "/gtarun14111/A-Simple-Calculator/static/js/main.d424d5c7.chunk.js.map",
-    "runtime-main.js": "/gtarun14111/A-Simple-Calculator/static/js/runtime-main.0f4267b8.js",
-    "runtime-main.js.map": "/gtarun14111/A-Simple-Calculator/static/js/runtime-main.0f4267b8.js.map",
-    "static/js/2.9e7e2e38.chunk.js": "/gtarun14111/A-Simple-Calculator/static/js/2.9e7e2e38.chunk.js",
-    "static/js/2.9e7e2e38.chunk.js.map": "/gtarun14111/A-Simple-Calculator/static/js/2.9e7e2e38.chunk.js.map",
-    "index.html": "/gtarun14111/A-Simple-Calculator/index.html",
-    "precache-manifest.9801183fff6ebe11fe14fb7192679bb1.js": "/gtarun14111/A-Simple-Calculator/precache-manifest.9801183fff6ebe11fe14fb7192679bb1.js",
-    "service-worker.js": "/gtarun14111/A-Simple-Calculator/service-worker.js",
-    "static/css/main.8fb1257d.chunk.css.map": "/gtarun14111/A-Simple-Calculator/static/css/main.8fb1257d.chunk.css.map",
-    "static/js/2.9e7e2e38.chunk.js.LICENSE.txt": "/gtarun14111/A-Simple-Calculator/static/js/2.9e7e2e38.chunk.js.LICENSE.txt"
+    "main.css": "/A-Simple-Calculator/static/css/main.8fb1257d.chunk.css",
+    "main.js": "/A-Simple-Calculator/static/js/main.1946f200.chunk.js",
+    "main.js.map": "/A-Simple-Calculator/static/js/main.1946f200.chunk.js.map",
+    "runtime-main.js": "/A-Simple-Calculator/static/js/runtime-main.21d3095c.js",
+    "runtime-main.js.map": "/A-Simple-Calculator/static/js/runtime-main.21d3095c.js.map",
+    "static/js/2.9e7e2e38.chunk.js": "/A-Simple-Calculator/static/js/2.9e7e2e38.chunk.js",
+    "static/js/2.9e7e2e38.chunk.js.map": "/A-Simple-Calculator/static/js/2.9e7e2e38.chunk.js.map",
+    "index.html": "/A-Simple-Calculator/index.html",
+    "precache-manifest.2130996c8c6b9378e7932b0dfc7c43f0.js": "/A-Simple-Calculator/precache-manifest.2130996c8c6b9378e7932b0dfc7c43f0.js",
+    "service-worker.js": "/A-Simple-Calculator/service-worker.js",
+    "static/css/main.8fb1257d.chunk.css.map": "/A-Simple-Calculator/static/css/main.8fb1257d.chunk.css.map",
+    "static/js/2.9e7e2e38.chunk.js.LICENSE.txt": "/A-Simple-Calculator/static/js/2.9e7e2e38.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f4267b8.js",
+    "static/js/runtime-main.21d3095c.js",
     "static/js/2.9e7e2e38.chunk.js",
     "static/css/main.8fb1257d.chunk.css",
-    "static/js/main.d424d5c7.chunk.js"
+    "static/js/main.1946f200.chunk.js"
   ]
 }
