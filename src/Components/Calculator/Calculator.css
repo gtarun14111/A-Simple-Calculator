@@ -1,0 +1,45 @@
+.numpad {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(25vw, 1fr));
+	grid-auto-rows: minmax(80px, 1fr);
+	background-color: white;
+	opacity: 0.8;
+	margin: 10px 8vw;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+.oppad {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(12vw, 1fr));
+	grid-auto-rows: minmax(80px, 1fr);
+	background-color: white;
+	margin: 10px 8vw;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .oppad {
+  	grid-template-columns: repeat(auto-fill, minmax(20vw, 1fr));
+  }
+}
+
+.structure {
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	margin: 2vw;
+}
+
+.button {
+	width: 90%;
+	height: 80%;
+}
+
+.right {
+	margin-left: auto;
+}
+
