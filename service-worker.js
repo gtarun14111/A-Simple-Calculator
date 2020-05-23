@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gtarun14111/A-Simple-Calculator/precache-manifest.1e0144152e3754d150c4a392e6456589.js"
+  "/gtarun14111/A-Simple-Calculator/precache-manifest.9801183fff6ebe11fe14fb7192679bb1.js"
 );
 
 self.addEventListener('message', (event) => {

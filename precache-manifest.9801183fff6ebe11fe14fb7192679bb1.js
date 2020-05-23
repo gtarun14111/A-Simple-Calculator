@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6db49f0e1c09e144dc83fa10888e9908",
+    "revision": "ad70be9814fd222271b235924c6f10e1",
     "url": "/gtarun14111/A-Simple-Calculator/index.html"
   },
   {
