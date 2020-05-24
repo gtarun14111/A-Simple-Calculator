@@ -1,10 +1,5 @@
 import { GET_NUMBER, GET_OPERATION } from './constants';
 
-const intialState = {
-	text: ""
-}
-
-
 const number = {
 	number1: 0,
 	number2: 0,
@@ -19,13 +14,10 @@ export const numberSetter= (state = number, action = {}) => {
 		
 		switch(operation) {
 			case '+': return  number1 + number2 ;
-			break;
 			case '-': return  number1 - number2 ;
-			break;
 			case '*': return  number1 * number2 ;
-			break;
 			case '/': return  number1 / number2 ;
-			break;
+			default: return "" ;
 		}
 	}
 
